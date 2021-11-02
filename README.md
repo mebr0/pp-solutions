@@ -10,3 +10,7 @@ This repo contains solutions of laboratory works of programming principles cours
 4. [Week4](week4) - 2d arrays, array operations, infinity loops, nested loops
 5. [Week5](week5) - strings, ASCII, stringstream
 6. [Week6](week6) - functions, built-in functions
+
+## Exams
+
+1. [Midterm](midterm) - weeks from 1 to 6
