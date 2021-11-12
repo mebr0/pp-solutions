@@ -10,8 +10,8 @@ This repo contains solutions of laboratory works of programming principles cours
 4. [Week4](week4) - 2d arrays, array operations, infinity loops, nested loops
 5. [Week5](week5) - strings, ASCII, stringstream
 6. [Week6](week6) - functions, built-in functions
-7. [Week7](week7) - recursion
-8. [Week8](week8) - STL, algorithms, vectors, sets, maps
+7. [Week9](week9) - recursion
+8. [Week10](week10) - STL, algorithms, vectors, sets, maps
 
 ## Exams
 
