@@ -12,6 +12,7 @@ This repo contains solutions of laboratory works of programming principles cours
 6. [Week6](week6) - functions, built-in functions
 7. [Week9](week9) - recursion
 8. [Week10](week10) - STL, algorithms, vectors, sets, maps
+9. [Week11](week11) - stacks, queues, deques
 
 ## Exams
 
