@@ -14,6 +14,7 @@ This repo contains solutions of laboratory works of programming principles cours
 8. [Week10](week10) - STL, algorithms, vectors, sets, maps
 9. [Week11](week11) - stacks, queues, deques
 10. [Week12](week12) - algorithm library
+11. [Week13](week13) - pointers, structs
 
 ## Exams
 
