@@ -11,9 +11,9 @@ long long f() {
     // pow from cmath does not work properly
     long long res = 1;
 
-	for (int i = 0; i < n; ++i) {
-		res *= n; 
-	}
+    for (int i = 0; i < n; ++i) {
+        res *= n; 
+    }
 
     n++;
 
