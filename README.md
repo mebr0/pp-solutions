@@ -19,3 +19,4 @@ This repo contains solutions of laboratory works of programming principles cours
 ## Exams
 
 1. [Midterm](midterm) - weeks from 1 to 6
+2. [Final (Sample)](final) - sample of final exam
